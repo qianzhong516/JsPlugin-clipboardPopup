@@ -1,0 +1,1 @@
+A plugin to help quickly create a copy-link-to-clipboard popup.
